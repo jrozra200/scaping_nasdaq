@@ -1,0 +1,1 @@
+# scaping_nasdaq
